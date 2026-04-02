@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack Dashboard",
+  "description": "A clean and interactive finance dashboard for tracking balances, transactions, and spending insights.",
+  "requestFramePermissions": []
+}
